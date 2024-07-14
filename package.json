@@ -1,0 +1,9 @@
+{
+"name":"content-migrator",
+
+"type": "module",
+  "dependencies": {
+    "@dotcms/client": "^0.0.1-alpha.23",
+    "fs": "^0.0.1-security"
+  }
+}
